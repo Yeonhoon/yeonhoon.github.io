@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Thu, 09 Jul 2020 15:16:55 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yeonhoon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>aa</title>
+      <link>https://yeonhoon.github.io/r/aa/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yeonhoon.github.io/r/aa/</guid>
+      <description>hi!!</description>
+    </item>
     
     <item>
       <title>my first blogpage</title>

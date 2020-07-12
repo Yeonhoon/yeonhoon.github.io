@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>practice on Yeon-hoon</title>
+    <link>https://yeonhoon.github.io/tags/practice/</link>
+    <description>Recent content in practice on Yeon-hoon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Thu, 09 Jul 2020 15:03:53 +0900</lastBuildDate>
+    
+	<atom:link href="https://yeonhoon.github.io/tags/practice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>my first blogpage</title>
+      <link>https://yeonhoon.github.io/r/practice/</link>
+      <pubDate>Thu, 09 Jul 2020 15:03:53 +0900</pubDate>
+      
+      <guid>https://yeonhoon.github.io/r/practice/</guid>
+      <description>##&amp;mdash; : frontmatter 컨텐츠 정보에 대한 정보를 알려줌. YAML , TOML, JSON YAML과 TOML은 비슷함.
+This is a.md
+Youtube shortcode   shortcode에는 인스타그램, 유튜브, 트위터도 가능함.
+gist 활용하기 markdown에서도 gist 활용이 가능하다. {{ &amp;lt; gist b93c763b826d925f7be83099c0528a29 &amp;gt;}}
+Taxanomy: how to group contents together taxanomy: front matter 안에 들어감
+Template 템플릿은 HTML 구조를 만들게 해주어 특정 컨텐츠를 그곳에 투입되게 해줌.</description>
+    </item>
+    
+  </channel>
+</rss>

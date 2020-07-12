@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fuck on Yeon-hoon</title>
+    <link>https://yeonhoon.github.io/tags/fuck/</link>
+    <description>Recent content in fuck on Yeon-hoon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Thu, 09 Jul 2020 15:03:53 +0900</lastBuildDate>
+    
+	<atom:link href="https://yeonhoon.github.io/tags/fuck/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>my second page</title>
+      <link>https://yeonhoon.github.io/r/pract2/</link>
+      <pubDate>Thu, 09 Jul 2020 15:03:53 +0900</pubDate>
+      
+      <guid>https://yeonhoon.github.io/r/pract2/</guid>
+      <description>blahhhhhhh</description>
+    </item>
+    
+  </channel>
+</rss>

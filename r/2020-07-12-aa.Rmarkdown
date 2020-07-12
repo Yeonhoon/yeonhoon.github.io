@@ -14,3 +14,9 @@ toc: no
 
 
 hi!!
+
+```{r}
+head(table(mtcars))
+require(tidyverse)
+
+```

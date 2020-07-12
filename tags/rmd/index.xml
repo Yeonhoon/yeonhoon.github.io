@@ -19,7 +19,7 @@
       
       <guid>https://yeonhoon.github.io/r/aa/</guid>
       <description>hi!!
-head(table(mtcars))require(tidyverse) </description>
+head(table(mtcars))require(tidyverse) 안녕하세요 반갑습니다! 정말 Rmarkdown 안되는 것입니까?</description>
     </item>
     
   </channel>

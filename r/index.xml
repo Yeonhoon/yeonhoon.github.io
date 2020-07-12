@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>aa</title>
+      <link>https://yeonhoon.github.io/r/aa/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yeonhoon.github.io/r/aa/</guid>
+      <description>hi!!
+head(table(mtcars))require(tidyverse) 안녕하세요 반갑습니다! 정말 Rmarkdown 안되는 것입니까?</description>
+    </item>
+    
+    <item>
       <title>my second page</title>
       <link>https://yeonhoon.github.io/r/pract2/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>

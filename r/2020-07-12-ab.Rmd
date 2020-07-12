@@ -5,11 +5,20 @@ date: 2020-07-12
 slug: aa
 langugae: "English"
 tags: ["rmd"]
+output:
+  html_document:
+    fig_height: 6
+    fig_width: 10
+    highlight: textmate
+    theme: cosmo
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
 ---
 
 hi!!
 
-```r
+```{r}
 head(table(mtcars))
 require(tidyverse)
 

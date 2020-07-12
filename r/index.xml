@@ -13,16 +13,6 @@
     
     
     <item>
-      <title>aa</title>
-      <link>https://yeonhoon.github.io/r/aa/</link>
-      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yeonhoon.github.io/r/aa/</guid>
-      <description>hi!!
-head(table(mtcars))require(tidyverse) </description>
-    </item>
-    
-    <item>
       <title>my second page</title>
       <link>https://yeonhoon.github.io/r/pract2/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
@@ -42,7 +32,7 @@ This is a.md
 Youtube shortcode   shortcode에는 인스타그램, 유튜브, 트위터도 가능함.
 Taxanomy: how to group contents together taxanomy: front matter 안에 들어감
 Template 템플릿은 HTML 구조를 만들게 해주어 특정 컨텐츠를 그곳에 투입되게 해줌.
-[** 왜케 어렵냐 ㅠㅠ**] </description>
+[ 왜케 어렵냐 ㅠㅠ] </description>
     </item>
     
   </channel>

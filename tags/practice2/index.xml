@@ -21,6 +21,7 @@
       <description>##&amp;mdash; : frontmatter 컨텐츠 정보에 대한 정보를 알려줌. YAML , TOML, JSON YAML과 TOML은 비슷함.
 This is a.md
 Youtube shortcode   shortcode에는 인스타그램, 유튜브, 트위터도 가능함.
+{{ }}
 Taxanomy: how to group contents together taxanomy: front matter 안에 들어감
 Template 템플릿은 HTML 구조를 만들게 해주어 특정 컨텐츠를 그곳에 투입되게 해줌.
 [왜 이렇게 어려운거지?]</description>

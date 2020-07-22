@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on Yeon-hoon</title>
-    <link>https://yeonhoon.github.io/tags/blog/</link>
-    <description>Recent content in blog on Yeon-hoon</description>
+    <title>hi on Yeon-hoon</title>
+    <link>https://yeonhoon.github.io/tags/hi/</link>
+    <description>Recent content in hi on Yeon-hoon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
     <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://yeonhoon.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yeonhoon.github.io/tags/hi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -31,12 +31,13 @@
     </item>
     
     <item>
-      <title>my second page</title>
-      <link>https://yeonhoon.github.io/r/pract2/</link>
-      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      <title>sdf</title>
+      <link>https://yeonhoon.github.io/r/sdf/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yeonhoon.github.io/r/pract2/</guid>
-      <description>blahhhhhhh</description>
+      <guid>https://yeonhoon.github.io/r/sdf/</guid>
+      <description>  플랏 그리기안녕하세요 반갑습니다ㅎㅇㅎㅇ 제 이름은 장연훈입니다.
+안녕하십니까반갑습니다.반갑소– 반갑소</description>
     </item>
     
   </channel>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yeonhoon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,36 @@
     <item>
       <title>blog</title>
       <link>https://yeonhoon.github.io/tags/blog/</link>
-      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yeonhoon.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hi</title>
+      <link>https://yeonhoon.github.io/tags/hi/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yeonhoon.github.io/tags/hi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>반가워</title>
+      <link>https://yeonhoon.github.io/tags/%EB%B0%98%EA%B0%80%EC%9B%8C/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yeonhoon.github.io/tags/%EB%B0%98%EA%B0%80%EC%9B%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>장연훈</title>
+      <link>https://yeonhoon.github.io/tags/%EC%9E%A5%EC%97%B0%ED%9B%88/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yeonhoon.github.io/tags/%EC%9E%A5%EC%97%B0%ED%9B%88/</guid>
       <description></description>
     </item>
     

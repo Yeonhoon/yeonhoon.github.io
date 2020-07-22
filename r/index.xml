@@ -13,6 +13,25 @@
     
     
     <item>
+      <title>md test</title>
+      <link>https://yeonhoon.github.io/r/md-test/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yeonhoon.github.io/r/md-test/</guid>
+      <description>x = rnorm(100)y = x*2 + rnorm(100)m = coef(lm(y ~ x))plot(x,y)abline(v=0, h=0, col=&#39;gray&#39;)abline(m, col=&#39;blue&#39;) </description>
+    </item>
+    
+    <item>
+      <title>sdf</title>
+      <link>https://yeonhoon.github.io/r/sdf/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yeonhoon.github.io/r/sdf/</guid>
+      <description>  플랏 그리기안녕하세요 반갑습니다ㅎㅇㅎㅇ 제 이름은 장연훈입니다.
+안녕하십니까반갑습니다.반갑소– 반갑소</description>
+    </item>
+    
+    <item>
       <title>aa</title>
       <link>https://yeonhoon.github.io/r/aa/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
